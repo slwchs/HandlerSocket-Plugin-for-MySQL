@@ -1,3 +1,3 @@
-# HandlerSocket-Plugin-for-MySQL
+# splaytree-ts
 
 ## POC by @gopal_ethical
